@@ -1,4 +1,11 @@
 #include "ripes_system.h"
+#define SW0 (0x01) // Control izquierda
+#define SW0 (0x01) // Control izquierda
+#define SW0 (0x01) // Control izquierda
+#define SW0 (0x01) // Control izquierda
+
+
+
 
 #define SW0 (0x01) // Control izquierda
 #define SW1 (0x02) // Control arriba
